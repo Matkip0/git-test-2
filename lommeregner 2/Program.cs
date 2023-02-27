@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("");
-int Nummer1 = 1;
+int Nummer1 = 0;
 int Nummer2 = 0;
 
 
